@@ -1,0 +1,25 @@
+body{
+	box-sizing: border-box;
+} 
+.hírlevél-box {
+	text-align: center;
+	background-color: #006633;
+	padding: 0px;
+	color: white;
+	border-style: solid;
+	margin: auto;
+	width: 416px;
+	height: 333px;
+	border-radius: 25px;
+}
+button {
+	background-color: #55AE3A;
+	padding: 20px 24px 20px 24px;
+	width: 170px;
+	Height: fixed 32px;
+	border-radius: 25px;
+	color: white;
+} 
+a {
+	color: white;
+} 
